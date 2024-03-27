@@ -96,16 +96,16 @@
             // Harga Satuan
             switch($produk) {
                 case 'TV':
-                    $harga_satuan = 5000000;
+                    $harga_satuan = 1250000;
                     break;
                 case 'KULKAS':
-                    $harga_satuan = 4000000;
+                    $harga_satuan = 2500000;
                     break;
                 case 'MESIN CUCI':
-                    $harga_satuan = 3500000;
+                    $harga_satuan = 1500000;
                     break;
                 case 'AC':
-                    $harga_satuan = 6000000;
+                    $harga_satuan = 4000000;
                     break;
                 default:
                     $harga_satuan = 0;
